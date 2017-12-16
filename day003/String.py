@@ -1,0 +1,30 @@
+# 字符串
+print("Let's go")
+print("Let's go"[1:2])
+print("%s is a goodman" % "zack")
+a = "123"
+b = "456"
+print(a+b)
+print("***".join([a, b]))
+c = "In reply to {name} advertisement in ~,Irespectfully offer my services for the situation。"
+print(c.capitalize())
+print("i出现了", c.count("i"), "次")
+print(c.casefold())
+print(c.encode("utf-8"))
+print(c.endswith("。"))
+print(c.endswith("."))
+print(c.upper())
+print(c.lower())
+print(c.swapcase())
+print(c.format(name="zack"))
+print("istitle", c.istitle())
+print("换行\n")
+print("换行\n".strip())
+print("2".isdigit())
+print("2 ".isdigit())
+print("".isspace())
+print(" ".isspace())
+print(c.replace("Irespectfully", "Ire", 1))
+print(c.rfind("y"))
+print("my title".title())
+

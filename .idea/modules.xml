@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PythonStudy.iml" filepath="$PROJECT_DIR$/PythonStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day001/day001.iml" filepath="$PROJECT_DIR$/day001/day001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day002/day002.iml" filepath="$PROJECT_DIR$/day002/day002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day003/day003.iml" filepath="$PROJECT_DIR$/day003/day003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day004/day004.iml" filepath="$PROJECT_DIR$/day004/day004.iml" />
+    </modules>
+  </component>
+</project>
